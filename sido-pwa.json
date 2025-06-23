@@ -1,7 +1,7 @@
 {
   "name": "Sido Radio",
   "short_name": "Sido",
-  "start_url": "./",
+  "start_url": "https://radio.phukienusb.com/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
