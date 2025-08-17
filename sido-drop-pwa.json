@@ -3,8 +3,8 @@
   "short_name": "Drop",
   "start_url": "./",
   "display": "standalone",
-  "background_color": "#f3f3f3",
-  "theme_color": "#f3f3f3",
+  "background_color": "#9bbdd6",
+  "theme_color": "#9bbdd6",
   "icons": [
     {
       "src": "https://raw.githubusercontent.com/kungfu47/sido/refs/heads/main/send_192.png",
