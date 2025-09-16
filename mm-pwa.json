@@ -3,8 +3,8 @@
   "short_name": "Mini Music",
   "start_url": "./",
   "display": "standalone",
-  "background_color": "#1db954",
-  "theme_color": "#1db954",
+  "background_color": "#010101",
+  "theme_color": "#010101",
   "icons": [
     {
       "src": "https://raw.githubusercontent.com/kungfu47/sido/refs/heads/main/mm192.png",
