@@ -1,7 +1,7 @@
 {
   "name": "Mini Music",
   "short_name": "Mini Music",
-  "start_url": "./",
+  "start_url": "/",
   "display": "standalone",
   "background_color": "#010101",
   "theme_color": "#010101",
