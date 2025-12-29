@@ -1,6 +1,6 @@
 {
-  "name": "My Server",
-  "short_name": "9000",
+  "name": "Cloud 9001",
+  "short_name": "9001",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#f2f2f2",
