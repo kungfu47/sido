@@ -1,0 +1,20 @@
+{
+  "name": "Firebase Apps",
+  "short_name": "F-Apps",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f0f2f5",
+  "theme_color": "#f0f2f5",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/256/14261/14261136.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/14261/14261136.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
